@@ -20,7 +20,7 @@
 // * statement, and all its terms.                                    *
 // ********************************************************************
 //
-// $Id: SiG4UniversalFluctuation.cc,v 1.3 2006/03/01 09:53:52 pioppi Exp $
+// $Id: SiG4UniversalFluctuation.cc,v 1.5 2006/11/13 14:24:35 fambrogl Exp $
 // GEANT4 tag $Name:  $
 //
 // -------------------------------------------------------------------
@@ -58,7 +58,7 @@
 #include "CLHEP/Random/RandGaussQ.h"
 #include "CLHEP/Random/RandPoisson.h"
 #include "CLHEP/Random/RandFlat.h"
-
+#include <math.h>
 //#include "G4UniversalFluctuation.hh"
 //#include "Randomize.hh"
 //#include "G4Poisson.hh"
