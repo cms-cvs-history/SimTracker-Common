@@ -20,7 +20,7 @@
 // * statement, and all its terms.                                    *
 // ********************************************************************
 //
-// $Id: SiG4UniversalFluctuation.cc,v 1.7 2009/05/25 07:38:46 fabiocos Exp $
+// $Id: SiG4UniversalFluctuation.cc,v 1.7.2.1 2012/03/28 18:50:18 wmtan Exp $
 // GEANT4 tag $Name: PUoptimization $
 //
 // -------------------------------------------------------------------
